@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 <div align=left>
   <a href="https://github-readme-stats.vercel.app/api?username=Soohan-Park&count_private=true&show_icons=true">
