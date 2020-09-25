@@ -7,7 +7,7 @@
 </div>
 -->
 
-<div align=center>
+<div align=right>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Soohan-Park&layout=compact">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soohan-Park&layout=compact" />
   </a>
