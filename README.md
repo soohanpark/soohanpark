@@ -24,13 +24,29 @@
   <a href="https://github.com/Soohan-Park/Blockchain">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Soohan-Park&repo=Blockchain" />
   </a>
+  
   <br/>
-  <a href="https://github.com/Soohan-Park/Practice-CT-2020">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Soohan-Park&repo=Practice-CT-2020" />
+  
+  <a href="https://github.com/Soohan-Park/Smart-Contract">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Soohan-Park&repo=Smart-Contract" />
   </a>
+  <a href="https://github.com/Soohan-Park/Klaystation_Calculator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Soohan-Park&repo=Klaystation_Calculator" />
+  </a>
+  
+  <br/>
+  
+  <a href="https://github.com/Soohan-Park/2020_JEJU_BLOCKCHAIN_HACKERTON">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Soohan-Park&repo=2020_JEJU_BLOCKCHAIN_HACKERTON" />
+  </a>
+  <!--
   <a href="https://github.com/Soohan-Park/Blockchain">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Soohan-Park&repo=Blockchain" />
   </a>
+  -->
+  
+  <br/>
+  
 </div>
 
 
