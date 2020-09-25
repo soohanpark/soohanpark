@@ -1,21 +1,22 @@
 ### Hi there 👋
 
-
+<!--
 <div align=left>
   <a href="https://github-readme-stats.vercel.app/api?username=Soohan-Park&count_private=true&show_icons=true">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Soohan-Park&count_private=true&show_icons=true" />
   </a>
 </div>
+-->
 
-
-<div align=right>
+<div align=center>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Soohan-Park&layout=compact">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soohan-Park&layout=compact" />
   </a>
-</div>
+</div>  
 
 
 ***  
+
 
 <div align=center>
   <a href="https://github.com/Soohan-Park/Practice-CT-2020">
