@@ -1,53 +1,13 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoohan-Park&count_bg=%23000000&title_bg=%23828282&icon=gradle.svg&icon_color=%23FFFFFF&title=Visited&edge_flat=false)](https://hits.seeyoufarm.com)  
+
+<br/>
+
 **#Blockchain**  
 **#Klaytn**  
 **#Python**  
 **#Java**  
 **#Javascript**  
 
-<!--
-<div align=left>
-  <a href="https://github-readme-stats.vercel.app/api?username=Soohan-Park&count_private=true&show_icons=true">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Soohan-Park&count_private=true&show_icons=true" />
-  </a>
-</div>
--->
-
-<!--
-<div align=center>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Soohan-Park&layout=compact">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soohan-Park&layout=compact" />
-  </a>
-</div>  
--->
-
-<!--
-<div align=center>
-  <a href="https://github.com/Soohan-Park/Practice-CT-2020">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Soohan-Park&repo=Practice-CT-2020" />
-  </a>
-  <a href="https://github.com/Soohan-Park/Blockchain">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Soohan-Park&repo=Blockchain" />
-  </a>
-  
-  <br/>
-  
-  <a href="https://github.com/Soohan-Park/Smart-Contract">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Soohan-Park&repo=Smart-Contract" />
-  </a>
-  <a href="https://github.com/Soohan-Park/Klaystation_Calculator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Soohan-Park&repo=Klaystation_Calculator" />
-  </a>
-  
-  <br/>
-  
-  <a href="https://github.com/Soohan-Park/2020_JEJU_BLOCKCHAIN_HACKERTON">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Soohan-Park&repo=2020_JEJU_BLOCKCHAIN_HACKERTON" />
-  </a>
-  
-  <br/>
-  
-</div>
--->
 
 <!--
 **Soohan-Park/Soohan-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
