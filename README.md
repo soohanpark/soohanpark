@@ -3,8 +3,9 @@
 <br/>
 
 **#Blockchain**  
+**#Ethereum**  
 **#Klaytn**  
-**#Python**  
+**#Python3**  
 **#Java**  
 **#Javascript**  
 
