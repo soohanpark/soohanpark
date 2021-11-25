@@ -7,7 +7,7 @@
 
 > 🏆 424 만큼의 Contributions을 2021년에 했어요
  > 
-> 📦 GitHub의 171.5 kB만큼의 저장소를 사용하고 있어요. 
+> 📦 GitHub의 171.6 kB만큼의 저장소를 사용하고 있어요. 
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -66,5 +66,5 @@ Go                       2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Soohan-Park/Soohan-Park/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/11/2021
+ Last Updated on 25/11/2021
 <!--END_SECTION:waka-->
