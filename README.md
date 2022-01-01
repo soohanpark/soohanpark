@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 **🐱 저의 GitHub 정보에요.** 
 
-> 🏆 516 만큼의 Contributions을 2021년에 했어요
+> 🏆 0 만큼의 Contributions을 2022년에 했어요
  > 
 > 📦 GitHub의 173.7 kB만큼의 저장소를 사용하고 있어요. 
  > 
@@ -66,5 +66,5 @@ C                        1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Soohan-Park/Soohan-Park/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
