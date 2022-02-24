@@ -5,9 +5,9 @@
 <!--START_SECTION:waka-->
 **🐱 저의 GitHub 정보에요.** 
 
-> 🏆 98 만큼의 Contributions을 2022년에 했어요
+> 🏆 99 만큼의 Contributions을 2022년에 했어요
  > 
-> 📦 GitHub의 188.3 kB만큼의 저장소를 사용하고 있어요. 
+> 📦 GitHub의 188.5 kB만큼의 저장소를 사용하고 있어요. 
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -66,5 +66,5 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Soohan-Park/Soohan-Park/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/02/2022 18:49:37 UTC
+ Last Updated on 24/02/2022 18:50:41 UTC
 <!--END_SECTION:waka-->
