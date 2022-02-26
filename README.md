@@ -66,5 +66,5 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Soohan-Park/Soohan-Park/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/02/2022 18:50:41 UTC
+ Last Updated on 26/02/2022 18:45:44 UTC
 <!--END_SECTION:waka-->
