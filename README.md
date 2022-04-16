@@ -66,5 +66,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Soohan-Park/Soohan-Park/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/04/2022 18:52:47 UTC
+ Last Updated on 16/04/2022 18:49:19 UTC
 <!--END_SECTION:waka-->
