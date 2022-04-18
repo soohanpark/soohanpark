@@ -7,7 +7,7 @@
 
 > 🏆 198 만큼의 Contributions을 2022년에 했어요
  > 
-> 📦 GitHub의 148.0 kB만큼의 저장소를 사용하고 있어요. 
+> 📦 GitHub의 148.3 kB만큼의 저장소를 사용하고 있어요. 
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -66,5 +66,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Soohan-Park/Soohan-Park/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/04/2022 18:49:19 UTC
+ Last Updated on 18/04/2022 18:52:44 UTC
 <!--END_SECTION:waka-->
