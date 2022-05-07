@@ -3,6 +3,8 @@
 <br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 **🐱 저의 GitHub 정보에요.** 
 
 > 🏆 235 만큼의 Contributions을 2022년에 했어요
@@ -66,5 +68,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Soohan-Park/Soohan-Park/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/05/2022 18:52:09 UTC
+ Last Updated on 07/05/2022 18:49:05 UTC
 <!--END_SECTION:waka-->
