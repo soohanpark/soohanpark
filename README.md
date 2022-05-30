@@ -9,7 +9,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue) -->
 
 **🐱 저의 GitHub 정보에요.** 
 
@@ -73,10 +73,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ```
 
 
-**타임라인**
-
-![Chart not found](https://raw.githubusercontent.com/Soohan-Park/Soohan-Park/master/charts/bar_graph.png) 
-
+![language-over-all-time](https://wakatime.com/share/@233baa06-7bda-477b-b915-d18ff24acbb8/9bc5d57d-09cd-4506-b1f3-eca271a34483.svg)
 
  Last Updated on 29/05/2022 18:51:33 UTC
 <!--END_SECTION:waka-->
