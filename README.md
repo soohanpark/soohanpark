@@ -9,11 +9,11 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%204%20mins-blue)
 
 **🐱 저의 GitHub 정보에요.** 
 
-> 🏆 0 만큼의 Contributions을 2022년에 했어요
+> 🏆 575 만큼의 Contributions을 2022년에 했어요
  > 
 > 📦 GitHub의 181.7 kB만큼의 저장소를 사용하고 있어요. 
  > 
@@ -78,5 +78,5 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Soohan-Park/Soohan-Park/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/08/2022 18:53:08 UTC
+ Last Updated on 02/09/2022 18:52:38 UTC
 <!--END_SECTION:waka-->
