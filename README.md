@@ -78,5 +78,5 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Soohan-Park/Soohan-Park/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/01/2023 18:42:42 UTC
+ Last Updated on 29/01/2023 18:41:15 UTC
 <!--END_SECTION:waka-->
