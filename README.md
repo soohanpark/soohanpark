@@ -9,7 +9,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-761%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-767%20hrs%2050%20mins-blue)
 
 **🐱 저의 GitHub 정보에요.** 
 
@@ -75,5 +75,5 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Soohan-Park/Soohan-Park/master/assets/bar_graph.png)
 
 
- Last Updated on 07/04/2023 18:37:35 UTC
+ Last Updated on 08/04/2023 18:37:42 UTC
 <!--END_SECTION:waka-->
