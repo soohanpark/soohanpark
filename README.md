@@ -75,5 +75,5 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Soohan-Park/Soohan-Park/master/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2023 18:38:07 UTC
+ Last Updated on 23/07/2023 18:37:51 UTC
 <!--END_SECTION:waka-->
