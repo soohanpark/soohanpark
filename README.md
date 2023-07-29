@@ -1,11 +1,7 @@
-### Hi, There! 👋
-
-
 [![Gmail Badge](https://img.shields.io/badge/-725psh@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:725psh@gmail.com)](mailto:725psh@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-soohanpark-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soohanpark/)](https://www.linkedin.com/in/soohanpark/) 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoohan-Park&count_bg=%23000000&title_bg=%23828282&icon=gradle.svg&icon_color=%23FFFFFF&title=Visited&edge_flat=false)](https://hits.seeyoufarm.com)  
 
-<br />
 <br />
 
 <!--START_SECTION:waka-->
