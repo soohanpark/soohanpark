@@ -5,7 +5,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C533%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C535%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-4.4%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
@@ -46,11 +46,11 @@
 
 ```text
 💬 프로그래밍 언어들: 
-Go                       2 hrs 47 mins       ███████████████████░░░░░░   75.34 % 
-Protocol Buffer          54 mins             ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
+Go                       3 hrs 16 mins       ████████████████████░░░░░   78.15 % 
+Protocol Buffer          54 mins             █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
- Last Updated on 19/08/2025 01:16:08 UTC
+ Last Updated on 20/08/2025 01:13:51 UTC
 <!--END_SECTION:waka-->
