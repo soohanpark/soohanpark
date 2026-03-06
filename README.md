@@ -5,7 +5,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C792%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C793%20hrs%2039%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-4.55%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -46,13 +46,13 @@
 
 ```text
 💬 프로그래밍 언어들: 
-Go                       6 hrs 36 mins       ███████████████████░░░░░░   74.35 % 
-YAML                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-Git Config               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Go                       4 hrs 58 mins       ███████████████████░░░░░░   76.54 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Git Config               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 ```
 
 
- Last Updated on 05/03/2026 01:56:10 UTC
+ Last Updated on 06/03/2026 01:58:14 UTC
 <!--END_SECTION:waka-->
