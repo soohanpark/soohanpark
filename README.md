@@ -5,7 +5,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C798%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C799%20hrs%209%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-4.55%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -46,13 +46,13 @@
 
 ```text
 💬 프로그래밍 언어들: 
-Go                       5 hrs 19 mins       █████████████████████░░░░   83.18 % 
-Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Protocol Buffer          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Go                       5 hrs 40 mins       █████████████████████░░░░   85.34 % 
+YAML                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Protocol Buffer          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 ```
 
 
- Last Updated on 11/03/2026 01:42:25 UTC
+ Last Updated on 12/03/2026 01:45:04 UTC
 <!--END_SECTION:waka-->
