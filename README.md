@@ -5,7 +5,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C826%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C829%20hrs%204%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-4.56%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -13,7 +13,7 @@
 
 > 📦 GitHub의 177.8 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 136 만큼의 Contributions을 2026년에 했어요
+> 🏆 138 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -46,13 +46,13 @@
 
 ```text
 💬 프로그래밍 언어들: 
-Go                       7 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   35.47 % 
-YAML                     5 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   28.01 % 
-Markdown                 2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-TypeScript               2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-JSON                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Go                       6 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   35.53 % 
+YAML                     5 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+TypeScript               2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Markdown                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 ```
 
 
- Last Updated on 27/03/2026 02:12:09 UTC
+ Last Updated on 28/03/2026 02:04:00 UTC
 <!--END_SECTION:waka-->
