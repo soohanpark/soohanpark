@@ -5,8 +5,6 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C054%20hrs%2017%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-4.62%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **🐱 저의 GitHub 정보에요.** 
@@ -46,13 +44,13 @@
 
 ```text
 💬 프로그래밍 언어들: 
-TypeScript               14 hrs 50 mins      ███████████████████░░░░░░   77.42 % 
-Markdown                 1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-CSS                      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-Go                       28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+TypeScript               13 hrs 12 mins      ███████████████████░░░░░░   76.10 % 
+Markdown                 1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+CSS                      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Go                       28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 ```
 
 
- Last Updated on 23/05/2026 03:09:49 UTC
+ Last Updated on 24/05/2026 03:18:00 UTC
 <!--END_SECTION:waka-->
