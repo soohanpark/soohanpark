@@ -13,13 +13,13 @@
 
 > 📦 GitHub의 392.8 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 275 만큼의 Contributions을 2026년에 했어요
+> 🏆 276 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
 > 📜 16개의 Public Repository를 만들었어요. 
  > 
-> 🔑 47개의 Private Repository를 만들었어요. 
+> 🔑 48개의 Private Repository를 만들었어요. 
  > 
 **저는 아침형 인간이에요. 🐤** 
 
@@ -46,13 +46,13 @@
 
 ```text
 💬 프로그래밍 언어들: 
-Markdown                 5 hrs 44 mins       ██████████████░░░░░░░░░░░   54.88 % 
-JavaScript               1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Bash                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-CSS                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Markdown                 5 hrs 43 mins       █████████████░░░░░░░░░░░░   50.75 % 
+JavaScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+Swift                    1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Bash                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+TypeScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 ```
 
 
- Last Updated on 22/07/2026 03:01:15 UTC
+ Last Updated on 23/07/2026 03:14:11 UTC
 <!--END_SECTION:waka-->
