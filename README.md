@@ -5,17 +5,17 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C137%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C139%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-354%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-356%20hrs%2029%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-4.86%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **🐱 저의 GitHub 정보에요.** 
 
-> 📦 GitHub의 397.4 kB만큼의 저장소를 사용하고 있어요. 
+> 📦 GitHub의 397.5 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 348 만큼의 Contributions을 2026년에 했어요
+> 🏆 349 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -48,39 +48,39 @@
 
 ```text
 💬 프로그래밍 언어들: 
-Markdown                 10 hrs 21 mins      ████████░░░░░░░░░░░░░░░░░   33.99 % 
-TypeScript               5 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-JavaScript               2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-JSON                     2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-HTML                     2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Markdown                 7 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   34.05 % 
+TypeScript               2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+JavaScript               2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+HTML                     2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Bash                     1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 20 mins (99.57%)
+⏱ AI Coding Time: 20 hrs 42 mins (99.37%)
 
-✍️ 24,264 lines written by AI, 9 lines written by hand (99.96% AI-written)
+✍️ 11,392 lines written by AI, 9 lines written by hand (99.92% AI-written)
 
-🔤 654,780,795 Input Tokens, 4,274,375 Output Tokens
+🔤 411,872,857 Input Tokens, 2,363,664 Output Tokens
 
-💵 $2526.63 Estimated AI Cost This Week
+💵 $1653.40 Estimated AI Cost This Week
 
-🧠 257 AI Sessions, 465 AI Prompts
+🧠 196 AI Sessions, 363 AI Prompts
 
-Sonnet                   8,395 lines         ██████████░░░░░░░░░░░░░░░   38.23 % 
-Opus                     6,798 lines         ████████░░░░░░░░░░░░░░░░░   30.96 % 
-GPT                      4,189 lines         █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-Haiku                    2,578 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Opus                     4,266 lines         ███████████░░░░░░░░░░░░░░   45.78 % 
+GPT                      4,189 lines         ███████████░░░░░░░░░░░░░░   44.95 % 
+Haiku                    458 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Sonnet                   406 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 4,955 characters per prompt
+🤖 AI-Driven — 99.92% of written lines came from AI
+📚 Verbose Prompter — average 5,605 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🚀 High AI Trust — 0.07% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/07/2026 03:25:25 UTC
+ Last Updated on 01/08/2026 03:21:37 UTC
 <!--END_SECTION:waka-->
