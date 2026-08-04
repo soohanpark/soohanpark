@@ -9,13 +9,13 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-356%20hrs%2029%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-4.91%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-4.97%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **🐱 저의 GitHub 정보에요.** 
 
 > 📦 GitHub의 397.9 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 364 만큼의 Contributions을 2026년에 했어요
+> 🏆 379 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -26,21 +26,21 @@
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     406 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-🌆 낮　                     1707 commits        ███████████░░░░░░░░░░░░░░   43.69 % 
-🌃 저녁                     1142 commits        ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-🌙 밤　                     652 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+🌞 아침                     408 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+🌆 낮　                     1738 commits        ███████████░░░░░░░░░░░░░░   43.65 % 
+🌃 저녁                     1168 commits        ███████░░░░░░░░░░░░░░░░░░   29.33 % 
+🌙 밤　                     668 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
 ```
 📅 **제가 가장 생산적인 날은 일요일이에요.** 
 
 ```text
-월요일                      672 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-화요일                      424 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-수요일                      603 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-목요일                      415 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-금요일                      576 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-토요일                      494 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-일요일                      723 commits         █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+월요일                      679 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+화요일                      426 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+수요일                      607 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+목요일                      415 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+금요일                      608 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+토요일                      494 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+일요일                      753 commits         █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
 ```
 
 
@@ -48,39 +48,38 @@
 
 ```text
 💬 프로그래밍 언어들: 
-Markdown                 7 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   34.49 % 
-TypeScript               2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-JavaScript               2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-HTML                     2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-Bash                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Markdown                 5 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   36.58 % 
+TypeScript               1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+JavaScript               1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+JSON                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+MDX                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 21 mins (99.36%)
+⏱ AI Coding Time: 13 hrs 40 mins (99.04%)
 
-✍️ 11,198 lines written by AI, 9 lines written by hand (99.92% AI-written)
+✍️ 8,026 lines written by AI, 9 lines written by hand (99.89% AI-written)
 
-🔤 403,847,445 Input Tokens, 2,326,714 Output Tokens
+🔤 295,789,714 Input Tokens, 1,635,312 Output Tokens
 
-💵 $1612.35 Estimated AI Cost This Week
+💵 $1290.92 Estimated AI Cost This Week
 
-🧠 195 AI Sessions, 358 AI Prompts
+🧠 165 AI Sessions, 297 AI Prompts
 
-GPT                      4,189 lines         ███████████░░░░░░░░░░░░░░   45.91 % 
-Opus                     4,072 lines         ███████████░░░░░░░░░░░░░░   44.62 % 
-Haiku                    458 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Sonnet                   406 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+GPT                      4,189 lines         ██████████████░░░░░░░░░░░   56.43 % 
+Opus                     2,861 lines         ██████████░░░░░░░░░░░░░░░   38.54 % 
+Sonnet                   374 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.92% of written lines came from AI
-📚 Verbose Prompter — average 5,681 characters per prompt
+🤖 AI-Driven — 99.89% of written lines came from AI
+📚 Verbose Prompter — average 3,227 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.08% of changed lines were hand-edited
+🚀 High AI Trust — 0.1% of changed lines were hand-edited
 ```
 
 
- Last Updated on 03/08/2026 03:26:59 UTC
+ Last Updated on 04/08/2026 03:17:34 UTC
 <!--END_SECTION:waka-->
