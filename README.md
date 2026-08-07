@@ -5,11 +5,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C139%20hrs%206%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-356%20hrs%2029%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-5.04%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-5.05%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **🐱 저의 GitHub 정보에요.** 
 
@@ -26,21 +22,21 @@
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     420 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-🌆 낮　                     1775 commits        ███████████░░░░░░░░░░░░░░   43.54 % 
-🌃 저녁                     1193 commits        ███████░░░░░░░░░░░░░░░░░░   29.26 % 
-🌙 밤　                     689 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+🌞 아침                     420 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+🌆 낮　                     1781 commits        ███████████░░░░░░░░░░░░░░   43.56 % 
+🌃 저녁                     1193 commits        ███████░░░░░░░░░░░░░░░░░░   29.18 % 
+🌙 밤　                     695 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
 ```
 📅 **제가 가장 생산적인 날은 일요일이에요.** 
 
 ```text
-월요일                      683 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-화요일                      436 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-수요일                      631 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-목요일                      418 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-금요일                      644 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-토요일                      494 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-일요일                      771 commits         █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+월요일                      683 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+화요일                      436 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+수요일                      631 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+목요일                      418 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+금요일                      656 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+토요일                      494 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+일요일                      771 commits         █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
 ```
 
 
@@ -48,36 +44,15 @@
 
 ```text
 💬 프로그래밍 언어들: 
-Go                       58 mins             ███████████████░░░░░░░░░░   58.67 % 
-Markdown                 32 mins             ████████░░░░░░░░░░░░░░░░░   31.95 % 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+이번 주에 활동은 없어요.
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 32 mins (92.1%)
-
-✍️ 514 lines written by AI, 9 lines written by hand (98.28% AI-written)
-
-🔤 17,033,930 Input Tokens, 155,164 Output Tokens
-
-💵 $63.47 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 16 AI Prompts
-
-Sonnet                   277 lines           ███████████████░░░░░░░░░░   58.07 % 
-Opus                     200 lines           ██████████░░░░░░░░░░░░░░░   41.93 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.28% of written lines came from AI
-📄 Detailed Prompter — average 849 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.64% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 06/08/2026 03:14:11 UTC
+ Last Updated on 07/08/2026 03:44:15 UTC
 <!--END_SECTION:waka-->
