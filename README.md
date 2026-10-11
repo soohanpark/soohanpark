@@ -1,4 +1,4 @@
-<h1 align="center">Soohan Park</h1>
+<h1 align="center">Soohan Park (박수한)</h1>
 
 <p align="center">
   Blockchain Infrastructure Engineer at <b>NEXPACE</b> — Abu Dhabi
@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://soohan.dev"><img alt="soohan.dev" src="https://img.shields.io/badge/soohan.dev-000000?style=flat&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/soohanpark/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-soohanpark-0A66C2?style=flat" /></a>
+  <a href="https://x.com/h___a___n___i"><img alt="X" src="https://img.shields.io/badge/X-hani-000000?style=flat&logo=x&logoColor=white" /></a>
   <a href="mailto:725psh@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-725psh@gmail.com-C14438?style=flat&logo=Gmail&logoColor=white" /></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=soohanpark&label=Profile%20views&color=0A66C2&style=flat" />
 </p>
@@ -19,6 +20,8 @@
 ---
 
 ## About
+
+박수한(Soohan Park)입니다. NEXPACE에서 메이플스토리 유니버스의 블록체인 플랫폼을 설계하고 운영합니다. 백엔드·인프라 엔지니어링과 AI 에이전트를 다루며, 프로젝트와 개발 경험을 [soohan.dev](https://soohan.dev)에 기록합니다.
 
 - Building the **MapleStory Universe** blockchain platform at Nexon / NEXPACE since 2022
 - 5+ years of backend and blockchain engineering, starting in financial IT in 2020
